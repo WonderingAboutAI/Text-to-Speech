@@ -28,9 +28,11 @@ Navigate to the API key page and follow the instructions to generate a new API k
 
 For more information, consult [OpenAI's official documentation.](https://platform.openai.com/docs/api-reference)
 
+```
 ⚠️ Please take precautions to keep your API key secure per OpenAI's guidance:
 
-*Remember that your API key is a secret! Do not share it with others or expose it in any client-side code (browsers, apps). Production requests must be routed through your backend server where your API key can be securely loaded from an environment variable or key management service.*
+Remember that your API key is a secret! Do not share it with others or expose it in any client-side code (browsers, apps). Production requests must be routed through your backend server where your API key can be securely loaded from an environment variable or key management service.
+```
 
 ### ElevenLabs
 
