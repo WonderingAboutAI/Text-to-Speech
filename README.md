@@ -2,7 +2,7 @@
 
 ## Text-to-Speech Editor for MacOS
 
-This MacOS desktop application lets you generate an audio scipt using OpenAI's GPT4-Turbo model and record spoken audio using AI voices from OpenAI and ElevvenLabs. Built using SwiftUI and APIs from OpenAI and ElevenLabs, this application provides an intuitive interface for testing a wide variety of AI voices and generating audio content.
+This MacOS desktop application lets you generate an audio script using OpenAI's GPT4-Turbo model and record spoken audio using AI voices from OpenAI and ElevenLabs. Built using SwiftUI and APIs from OpenAI and ElevenLabs, this application provides an intuitive interface for testing a wide variety of AI voices and generating audio content.
 
 ### Features
 
